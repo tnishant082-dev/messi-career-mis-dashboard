@@ -1,0 +1,5 @@
+_gen_assets.py
+*.pyc
+__pycache__/
+.DS_Store
+~$*
